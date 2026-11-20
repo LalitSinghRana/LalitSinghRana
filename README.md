@@ -1,6 +1,6 @@
 # Lalit Rana
 
-### Senior Full-Stack Engineer | TypeScript · React · Node.js
+### Senior Software Engineer · Full-Stack & Platform Engineering
 
 Interested in building the layers behind great software: platforms, frameworks, developer tools, and abstractions that make development simpler and faster.
 
